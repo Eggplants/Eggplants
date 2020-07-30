@@ -41,6 +41,7 @@
   <summary>各種のアレ</summary>
 
 - Keybase: [@egpl0](https://keybase.io/egpl0)
+- Gist: [@eggplants](https://gist.github.com/eggplants)
 - Twitter: [@egpl0](https://twitter.com/egpl0)
 - Twitter(凍結): [@egpl0_sh](https://twitter.com/egpl0_sh)
 - Twitter(サブ): [@egpl0_sh_2](https://twitter.com/egpl0_sh_2)
@@ -49,7 +50,7 @@
 - Atcoder: [@eggplants](https://atcoder.jp/users/eggplants)
   - 長いことやってない
 - Paiza: [しっとり 袋ドーナツ 冷凍 サクサク](https://paiza.jp/challenges/glicko_rating_share/Rhzq59TWX8uIwiPelPbv8JjaB9AC4kA9z2Wq7nWQwTk?972200151)
-- Greasyfork: [@eggplants](https://greasyfork.org/en/users/671442-eggplants)
+- Greasy Fork: [@eggplants](https://greasyfork.org/en/users/671442-eggplants)
 - Jstris [@egg_planter0](https://jstris.jezevec10.com/u/egg_planter0)
 - (...追加予定)
 
