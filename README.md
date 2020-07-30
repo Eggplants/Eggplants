@@ -55,6 +55,7 @@
 - Togetter: [@egpl0](https://togetter.com/id/egpl0)
 - connpass: [@egpl0](https://connpass.com/user/egpl0)
 - Doorkeeper: [haruna](https://www.doorkeeper.jp/users/xtpf8edosjnkj9v41rcymf3bbwr8ol)
+- Steam: [@egpl0](https://steamcommunity.com/id/egpl0)
 - (...追加予定)
 
 
