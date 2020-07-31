@@ -23,17 +23,10 @@
          src="https://2.bp.blogspot.com/-DI48KC7LlTE/UO1ioW2x7wI/AAAAAAAAKh0/wpJskRJ3WJw/s1600/small_flower_green.png" width="50"
     /><img
          src="https://cgi.u.tsukuba.ac.jp/~s1811528/opac/img/selfiebrink.gif" width="50"
-    /><img
-         src="https://2.bp.blogspot.com/-DI48KC7LlTE/UO1ioW2x7wI/AAAAAAAAKh0/wpJskRJ3WJw/s1600/small_flower_green.png" width="50"
-    /><img
-         src="https://cgi.u.tsukuba.ac.jp/~s1811528/opac/img/selfiebrink.gif" width="50"
-    /><img
-         src="https://2.bp.blogspot.com/-DI48KC7LlTE/UO1ioW2x7wI/AAAAAAAAKh0/wpJskRJ3WJw/s1600/small_flower_green.png" width="50"
-    /><img
-         src="https://cgi.u.tsukuba.ac.jp/~s1811528/opac/img/selfiebrink.gif" width="50"
     />
-  </a>
-</div>
+  
+  ![あ](https://github-readme-stats.vercel.app/api?username=eggplants&show_icons=true&theme=cobalt)
+</a></div>
 
 ---
 
