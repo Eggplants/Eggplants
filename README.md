@@ -33,24 +33,21 @@
 <details>
   <summary>各種のアレ</summary>
 
-- Keybase: [@egpl0](https://keybase.io/egpl0)
-- Gist: [@eggplants](https://gist.github.com/eggplants)
-- Twitter: [@egpl0](https://twitter.com/egpl0)
-- Twitter(凍結): [@egpl0_sh](https://twitter.com/egpl0_sh)
-- Twitter(サブ): [@egpl0_sh_2](https://twitter.com/egpl0_sh_2)
-- Qiita: [@eggplants](https://qiita.com/eggplants)
-- SoundCloud: [@egpl0](https://soundcloud.com/f-0q)
 - Atcoder: [@eggplants](https://atcoder.jp/users/eggplants)
-  - 長いことやってない
-- Paiza: [しっとり 袋ドーナツ 冷凍 サクサク](https://paiza.jp/challenges/glicko_rating_share/Rhzq59TWX8uIwiPelPbv8JjaB9AC4kA9z2Wq7nWQwTk?972200151)
+- Doorkeeper: [haruna](https://www.doorkeeper.jp/users/xtpf8edosjnkj9v41rcymf3bbwr8ol)
+- Gist: [@eggplants](https://gist.github.com/eggplants)
 - Greasy Fork: [@eggplants](https://greasyfork.org/en/users/671442-eggplants)
 - Jstris [@egg_planter0](https://jstris.jezevec10.com/u/egg_planter0)
-- Togetter: [@egpl0](https://togetter.com/id/egpl0)
-- connpass: [@egpl0](https://connpass.com/user/egpl0)
-- Doorkeeper: [haruna](https://www.doorkeeper.jp/users/xtpf8edosjnkj9v41rcymf3bbwr8ol)
+- Keybase: [@egpl0](https://keybase.io/egpl0)
+- Paiza: [しっとり 袋ドーナツ 冷凍 サクサク](https://paiza.jp/challenges/glicko_rating_share/Rhzq59TWX8uIwiPelPbv8JjaB9AC4kA9z2Wq7nWQwTk?972200151)
+- Qiita: [@eggplants](https://qiita.com/eggplants)
+- SoundCloud: [@egpl0](https://soundcloud.com/f-0q)
 - Steam: [@egpl0](https://steamcommunity.com/id/egpl0)
-- (...追加予定)
-
+- Togetter: [@egpl0](https://togetter.com/id/egpl0)
+- Twitter(サブ): [@egpl0_sh_2](https://twitter.com/egpl0_sh_2)
+- Twitter(凍結): [@egpl0_sh](https://twitter.com/egpl0_sh)
+- Twitter: [@egpl0](https://twitter.com/egpl0)
+- connpass: [@egpl0](https://connpass.com/user/egpl0)
 
 </details>
 
