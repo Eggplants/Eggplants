@@ -45,6 +45,7 @@
 - SoundCloud: [@egpl0](https://soundcloud.com/f-0q)
 - Steam: [@egpl0](https://steamcommunity.com/id/egpl0)
 - Togetter: [@egpl0](https://togetter.com/id/egpl0)
+- Twitch: [@egpl0](https://www.twitch.tv/egpl0)
 - Twitter(サブ): [@egpl0_sh_2](https://twitter.com/egpl0_sh_2)
 - Twitter(凍結): [@egpl0_sh](https://twitter.com/egpl0_sh)
 - Twitter: [@egpl0](https://twitter.com/egpl0)
