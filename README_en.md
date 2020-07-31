@@ -34,6 +34,7 @@
   <summary>My Links</summary>
 
 - Atcoder: [@eggplants](https://atcoder.jp/users/eggplants)
+- Connpass: [@egpl0](https://connpass.com/user/egpl0)
 - Doorkeeper: [haruna](https://www.doorkeeper.jp/users/xtpf8edosjnkj9v41rcymf3bbwr8ol)
 - Gist: [@eggplants](https://gist.github.com/eggplants)
 - Greasy Fork: [@eggplants](https://greasyfork.org/en/users/671442-eggplants)
@@ -47,7 +48,6 @@
 - Twitter(sub): [@egpl0_sh_2](https://twitter.com/egpl0_sh_2)
 - Twitter(suspend): [@egpl0_sh](https://twitter.com/egpl0_sh)
 - Twitter: [@egpl0](https://twitter.com/egpl0)
-- connpass: [@egpl0](https://connpass.com/user/egpl0)
 
 </details>
 
