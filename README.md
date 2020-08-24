@@ -26,7 +26,7 @@
     />
   
   ![あ](https://github-readme-stats.vercel.app/api?username=eggplants&show_icons=true&theme=cobalt)
-  ![い](https://github-readme-stats.vercel.app/api/top-langs/?username=eggplants&layout=compact&theme=cobalt)
+  ![い](https://github-readme-stats.vercel.app/api/top-langs/?username=eggplants&theme=cobalt)
 </a></div>
 
 ---
